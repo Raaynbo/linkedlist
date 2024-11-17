@@ -1,6 +1,6 @@
 # Linked list TOP project
 
-## NOTE : ther is only one commit because is only imported code from another repo (private) where I do main DSA training stuff. 
+## NOTE : only one commit because I imported code from another repo (private) where I do my DSA training stuff. 
 
 ### Linked List 
 
